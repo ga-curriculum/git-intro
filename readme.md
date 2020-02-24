@@ -110,7 +110,7 @@ status (with `git status`).
 
 Watch me do the following:
 
-1. Navigate to my `sandbox` directory and create a new directory called
+1. Navigate to my `labs` directory and create a new directory called
    `my_first_repository`
 1. Turn this directory into a git repo with `git init`
 1. Create a file in the repository called `index.html`
@@ -134,7 +134,7 @@ Press `q` to exit the logs.
 
 Now it's your turn! Work through the following steps:
 
-1. Navigate to your `sandbox` directory and create a new directory called
+1. Navigate to your `labs` directory and create a new directory called
    `my_first_repository`
 1. Turn this directory into a git repo. What was the command to do that?
 1. Create a file in the repository called `index.html`
