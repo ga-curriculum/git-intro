@@ -1,6 +1,4 @@
-[![General Assembly Logo](https://camo.githubusercontent.com/1a91b05b8f4d44b5bbfb83abac2b0996d8e26c92/687474703a2f2f692e696d6775722e636f6d2f6b6538555354712e706e67)](https://generalassemb.ly/education/web-development-immersive)
-
-# Intro to Git
+# ![General Assembly Logo](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Intro to Git
 
 Git is one of a couple tools that you will end up using every day as a
 developer; it's an essential component to every developer's work. So what is it?
@@ -33,7 +31,7 @@ Git is a version control tool: it keeps track of changes across a collection of
 files for us. When we use Git, we can see what changes we made and seamlessly
 merge them with changes from our coworkers.
 
-![Versioning Diagram](images/wordVersioningTool.png)
+![Versioning Diagram](./images/wordVersioningTool.png)
 
 ## Version Control
 
@@ -70,7 +68,7 @@ version and the previous version in something called a `diff` (command:
 `git diff`). A `diff` will show what has been added in green text or
 highlighting, while displaying the things removed in red.
 
-![Commit Versions](images/CommitVersions.png)
+![Commit Versions](./images/CommitVersions.png)
 
 Git does this and a lot more though!
 
@@ -182,7 +180,7 @@ piece-by-piece
 
 Here's another way to think about it...
 
-![Git Local Diagram](/images/git-local.jpg)
+![Git Local Diagram](./images/git-local.jpg)
 
 ## You Do: AMRAP
 
