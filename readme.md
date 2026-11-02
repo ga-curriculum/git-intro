@@ -18,7 +18,7 @@ By the end of this, developers should be able to:
 
 ## Preparation
 
-1. Go to your git.generalassemb.ly profile
+1. Go to your GitHub profile
 1. In the top right corner, click the `+` and then click `New Repository`
 1. Create a new repository called `my_first_repository`
 1. Leave all the other inputs as their defaults
